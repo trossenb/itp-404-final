@@ -1,0 +1,114 @@
+{
+  "events": [
+      {
+        "id": "1",
+        "userId": "1",
+        "title": "NBA Championship Finals",
+        "body": "Championship finals between top teams.",
+        "sport": "Basketball",
+        "date": "2024-07-15",
+        "time": "19:00",
+        "venue": "Madison Square Garden",
+        "ticketPrice": 250
+      },
+      {
+        "id": "2",
+        "userId": "2",
+        "title": "Super Bowl LVIII",
+        "body": "The biggest event in American football!",
+        "sport": "Football",
+        "date": "2024-02-11",
+        "time": "18:30",
+        "venue": "Allegiant Stadium",
+        "ticketPrice": 1200
+      },
+      {
+        "id": "3",
+        "userId": "3",
+        "title": "Wimbledon Finals",
+        "body": "The historic tennis grand slam final.",
+        "sport": "Tennis",
+        "date": "2024-07-14",
+        "time": "15:00",
+        "venue": "All England Club",
+        "ticketPrice": 350
+      },
+      {
+        "id": "4",
+        "userId": "3",
+        "title": "Formula 1 Grand Prix",
+        "body": "The most glamorous racing event of the year.",
+        "sport": "Racing",
+        "date": "2024-09-01",
+        "time": "14:00",
+        "venue": "Circuit de Monaco",
+        "ticketPrice": 900
+      },
+      {
+        "id": "5",
+        "userId": "4",
+        "title": "World Cup Finals",
+        "body": "The grand finale of the FIFA World Cup.",
+        "sport": "Soccer",
+        "date": "2024-12-18",
+        "time": "20:00",
+        "venue": "Lusail Iconic Stadium",
+        "ticketPrice": 800
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "username": "sportsfan"
+      },
+      {
+        "id": "2",
+        "username": "tennislover"
+      },
+      {
+        "id": "3",
+        "username": "racetrackracer"
+      },
+      {
+        "id": "4",
+        "username": "goalgetter"
+      }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "body": "Can't wait for this epic game!",
+        "postId": "1",
+        "commenterName": "John Doe",
+        "timestamp": "2024-06-10T15:30:00Z"
+      },
+      {
+        "id": "2",
+        "body": "This is going to be the game of the year!",
+        "postId": "2",
+        "commenterName": "Jane Smith",
+        "timestamp": "2024-01-20T12:45:00Z"
+      },
+      {
+        "id": "3",
+        "body": "Federer or Djokovic? Who will win?",
+        "postId": "3",
+        "commenterName": "Roger Fan",
+        "timestamp": "2024-06-30T09:15:00Z"
+      },
+      {
+        "id": "4",
+        "body": "Monaco never disappoints!",
+        "postId": "4",
+        "commenterName": "Speedster99",
+        "timestamp": "2024-08-15T20:10:00Z"
+      },
+      {
+        "id": "5",
+        "body": "Final match predictions: 3-2!",
+        "postId": "5",
+        "commenterName": "SoccerKing",
+        "timestamp": "2024-11-10T17:00:00Z"
+      }
+    ]
+  }
